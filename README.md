@@ -1,1 +1,2 @@
-# Corvit_Projects
+# Corvit_Ai project Projects
+Artificial intelligence
